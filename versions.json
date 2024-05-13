@@ -1,0 +1,11 @@
+{
+    "stable": null,
+    "canary": null,
+    "alpha": null,
+    "dev": {
+        "versionName": "0.0.1",
+        "versionCode": 1,
+        "updateLink": null,
+        "changeLog": "- test change log"
+    }
+}
